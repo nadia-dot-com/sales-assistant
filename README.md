@@ -1,3 +1,5 @@
+
+
 # Personal Care Store with Sales Assistant (frontend)
 
 ## The store
@@ -18,11 +20,11 @@ This is the frontend of an internal training project built as a team at Columbus
 
 ## Chat behavior
 
-![Chat behavior](src/assets/preview/chat-behavior.mp4)
+![Chat behavior](/Users/nadiialezhanska/portfolio/sales-assistant/src/assets/preview/chat-behavior.mp4)
 
 ## Make an order example
 
-![Make an order](src/assets/preview/make-an-order.mp4)
+![Make an order](/Users/nadiialezhanska/portfolio/sales-assistant/src/assets/preview/make-an-order.mp4)
 
 ## What it does
 
