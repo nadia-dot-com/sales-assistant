@@ -1,0 +1,72 @@
+{
+  "_key": "6a46a908-f91b-4af8-8e91-de325bcc1352",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "6a9ed148-1c39-4765-9f81-bef34b6ce36f",
+      "_type": "category",
+      "children": [],
+      "id": "6a9ed148-1c39-4765-9f81-bef34b6ce36f",
+      "key": "gp26_after_sun",
+      "level": 2,
+      "show": true,
+      "title": "After Sun"
+    },
+    {
+      "_key": "53272167-cfa9-4d83-8167-8ea8a022c080",
+      "_type": "category",
+      "children": [],
+      "id": "53272167-cfa9-4d83-8167-8ea8a022c080",
+      "key": "gp26_self_tanning",
+      "level": 2,
+      "show": true,
+      "title": "Self-Tanning"
+    },
+    {
+      "_key": "107db621-7c60-449b-bcf0-b40ffc0a5dac",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "54e7a08d-7cc6-402b-9446-1cfee0bb1cf3",
+          "_type": "category",
+          "children": [],
+          "id": "54e7a08d-7cc6-402b-9446-1cfee0bb1cf3",
+          "key": "gp26_sun_protection_face",
+          "level": 3,
+          "show": true,
+          "title": "Face Sun Protection"
+        },
+        {
+          "_key": "4de8ce9c-3dc1-424a-bc9c-7d2ef9e867d6",
+          "_type": "category",
+          "children": [],
+          "id": "4de8ce9c-3dc1-424a-bc9c-7d2ef9e867d6",
+          "key": "gp26_sun_protection_kids",
+          "level": 3,
+          "show": true,
+          "title": "Kids Sun Protection"
+        },
+        {
+          "_key": "f5fd5d9b-887a-45cb-9bfd-578d83019af5",
+          "_type": "category",
+          "children": [],
+          "id": "f5fd5d9b-887a-45cb-9bfd-578d83019af5",
+          "key": "gp26_sun_protection_other",
+          "level": 3,
+          "show": true,
+          "title": "Other Sun Protection"
+        }
+      ],
+      "id": "107db621-7c60-449b-bcf0-b40ffc0a5dac",
+      "key": "gp26_sun_protection",
+      "level": 2,
+      "show": true,
+      "title": "Sun Protection"
+    }
+  ],
+  "id": "6a46a908-f91b-4af8-8e91-de325bcc1352",
+  "key": "gp26_sun_care",
+  "level": 1,
+  "show": true,
+  "title": "Sun Care"
+}

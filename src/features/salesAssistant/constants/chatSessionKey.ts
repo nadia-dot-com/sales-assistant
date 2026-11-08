@@ -1,0 +1,2 @@
+export const CHAT_SESSION_KEY = "CHAT_SESSION_KEY";
+export const CHAT_SCROLL_KEY = "CHAT_SCROLL_KEY";

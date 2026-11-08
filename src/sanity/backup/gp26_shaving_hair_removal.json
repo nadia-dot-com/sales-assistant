@@ -1,0 +1,71 @@
+{
+  "_key": "7b41f38a-3b51-4155-868c-5f703f213f36",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "1c23d9cb-a72c-4f10-9d0d-52a7b7b0148f",
+      "_type": "category",
+      "children": [],
+      "id": "1c23d9cb-a72c-4f10-9d0d-52a7b7b0148f",
+      "key": "gp26_beard_care",
+      "level": 2,
+      "show": true,
+      "title": "Beard Care"
+    },
+    {
+      "_key": "4de5c1ba-7771-4c2e-a71f-b4bfbae0d0a1",
+      "_type": "category",
+      "children": [],
+      "id": "4de5c1ba-7771-4c2e-a71f-b4bfbae0d0a1",
+      "key": "gp26_shaving_hair_removal_other",
+      "level": 2,
+      "show": true,
+      "title": "Other Shaving Products"
+    },
+    {
+      "_key": "fd31d037-cf9d-4dac-85e9-30e3bb44664f",
+      "_type": "category",
+      "children": [],
+      "id": "fd31d037-cf9d-4dac-85e9-30e3bb44664f",
+      "key": "gp26_shaving_preparations",
+      "level": 2,
+      "show": true,
+      "title": "Shaving Preparations"
+    },
+    {
+      "_key": "a283f906-8645-44b2-a90f-4ff78a9f89b9",
+      "_type": "category",
+      "children": [],
+      "id": "a283f906-8645-44b2-a90f-4ff78a9f89b9",
+      "key": "gp26_shaving_accessories",
+      "level": 2,
+      "show": true,
+      "title": "Razors"
+    },
+    {
+      "_key": "2c6f9aa6-ff61-4cdf-900f-41c2cb786dcc",
+      "_type": "category",
+      "children": [],
+      "id": "2c6f9aa6-ff61-4cdf-900f-41c2cb786dcc",
+      "key": "gp26_after_shave",
+      "level": 2,
+      "show": true,
+      "title": "After Shave"
+    },
+    {
+      "_key": "cda73721-c3c7-4ce3-864d-a3d56ce50453",
+      "_type": "category",
+      "children": [],
+      "id": "cda73721-c3c7-4ce3-864d-a3d56ce50453",
+      "key": "gp26_depilation",
+      "level": 2,
+      "show": true,
+      "title": "Hair Removal"
+    }
+  ],
+  "id": "7b41f38a-3b51-4155-868c-5f703f213f36",
+  "key": "gp26_shaving_hair_removal",
+  "level": 1,
+  "show": true,
+  "title": "Shaving and Hair Removal"
+}

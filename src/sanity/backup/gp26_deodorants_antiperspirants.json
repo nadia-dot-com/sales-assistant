@@ -1,0 +1,61 @@
+{
+  "_key": "c1534e4a-7ad3-4a21-ba9d-b979f16f2353",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "e4bdd139-b5b8-4d24-b308-bbda5c8bf56d",
+      "_type": "category",
+      "children": [],
+      "id": "e4bdd139-b5b8-4d24-b308-bbda5c8bf56d",
+      "key": "gp26_deodorant_spray",
+      "level": 2,
+      "show": true,
+      "title": "Deodorant Sprays"
+    },
+    {
+      "_key": "3bc3b6f1-fbb4-4e7a-95a2-ba18bd1bbb93",
+      "_type": "category",
+      "children": [],
+      "id": "3bc3b6f1-fbb4-4e7a-95a2-ba18bd1bbb93",
+      "key": "gp26_deodorant_cream_other",
+      "level": 2,
+      "show": true,
+      "title": "Deodorant Creams"
+    },
+    {
+      "_key": "8ea2493d-42ac-4e81-9ef7-668173ac5f3b",
+      "_type": "category",
+      "children": [],
+      "id": "8ea2493d-42ac-4e81-9ef7-668173ac5f3b",
+      "key": "gp26_deodorant_roll_on",
+      "level": 2,
+      "show": true,
+      "title": "Roll-on Deodorants"
+    },
+    {
+      "_key": "6fffac89-d45a-4284-b4a6-dee81112ae79",
+      "_type": "category",
+      "children": [],
+      "id": "6fffac89-d45a-4284-b4a6-dee81112ae79",
+      "key": "gp26_deodorant_stick",
+      "level": 2,
+      "show": true,
+      "title": "Deodorant Sticks"
+    },
+    {
+      "_key": "bf709a3c-0754-40bd-ab93-393f456e6f21",
+      "_type": "category",
+      "children": [],
+      "id": "bf709a3c-0754-40bd-ab93-393f456e6f21",
+      "key": "gp26_deodorants_antiperspirants_other",
+      "level": 2,
+      "show": true,
+      "title": "Other Deodorants"
+    }
+  ],
+  "id": "c1534e4a-7ad3-4a21-ba9d-b979f16f2353",
+  "key": "gp26_deodorants_antiperspirants",
+  "level": 1,
+  "show": true,
+  "title": "Deodorants"
+}

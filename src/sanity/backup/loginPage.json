@@ -1,0 +1,38 @@
+[
+  {
+    "key": "loginPage.legend.title",
+    "value": "Log in to your account"
+  },
+  {
+    "key": "loginPage.legend.description",
+    "value": "Provide your email and password for logging in"
+  },
+  {
+    "key": "loginPage.submit",
+    "value": "Log in"
+  },
+  {
+    "key": "loginPage.email.label",
+    "value": "Email"
+  },
+  {
+    "key": "loginPage.email.placeholder",
+    "value": "Enter your Email"
+  },
+  {
+    "key": "loginPage.password.label",
+    "value": "Password"
+  },
+  {
+    "key": "loginPage.password.placeholder",
+    "value": "Enter your password"
+  },
+  {
+    "key": "loginPage.linkSection.title",
+    "value": "You dont have an account?"
+  },
+  {
+    "key": "loginPage.linkSection.linkText",
+    "value": "Create one now"
+  }
+]

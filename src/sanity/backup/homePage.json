@@ -1,0 +1,22 @@
+[
+  {
+    "key": "homePage.metadata.title",
+    "value": "HomePage"
+  },
+  {
+    "key": "homePage.metadata.description",
+    "value": "Here you can find a lot of products you might like."
+  },
+  {
+    "key": "homePage.title",
+    "value": "AI Sales Assistant"
+  },
+  {
+    "key": "homePage.tryItNow",
+    "value": "Try it now!"
+  },
+  {
+    "key": "homePage.welcome",
+    "value": "Welcome"
+  }
+]

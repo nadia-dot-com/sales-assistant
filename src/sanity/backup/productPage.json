@@ -1,0 +1,146 @@
+[
+  {
+    "key": "productPage.category",
+    "value": "Category:"
+  },
+  {
+    "key": "productPage.breadcrumb.home",
+    "value": "Home"
+  },
+  {
+    "key": "productPage.stockInformation.inStock",
+    "value": "In stock"
+  },
+  {
+    "key": "productPage.stockInformation.lowStock",
+    "value": "Low stock"
+  },
+  {
+    "key": "productPage.stockInformation.outOfStock",
+    "value": "Out of stock"
+  },
+  {
+    "key": "productPage.stockInformation.notify",
+    "value": "Notify me"
+  },
+  {
+    "key": "productPage.productTabs.description",
+    "value": "Description"
+  },
+  {
+    "key": "productPage.productTabs.descriptionEmpty",
+    "value": "No description"
+  },
+  {
+    "key": "productPage.productTabs.additionalInformation",
+    "value": "Additional information"
+  },
+  {
+    "key": "productPage.productTabs.additionalInformationEmpty",
+    "value": "No Additional Information"
+  },
+  {
+    "key": "productPage.productTabs.ingredients",
+    "value": "Ingredients"
+  },
+  {
+    "key": "productPage.productTabs.ingredientsEmpty",
+    "value": "No ingredients information"
+  },
+  {
+    "key": "productPage.productTabs.reviews",
+    "value": "Reviews"
+  },
+  {
+    "key": "productPage.productTabs.reviewsEmpty",
+    "value": "No reviews yet."
+  },
+  {
+    "key": "productPage.productTabs.parameters.netContent",
+    "value": "Volume"
+  },
+  {
+    "key": "productPage.productTabs.parameters.productForm",
+    "value": "Formula"
+  },
+  {
+    "key": "productPage.productTabs.parameters.manufacturingCountry",
+    "value": "Country of origin"
+  },
+  {
+    "key": "productPage.productTabs.parameters.targetNeed",
+    "value": "Suitable for"
+  },
+  {
+    "key": "productPage.productTabs.parameters.packaging",
+    "value": "Packaging"
+  },
+  {
+    "key": "productPage.purchaseSection.addToCart",
+    "value": "Add to cart"
+  },
+  {
+    "key": "productPage.quantityInput.changeQuantity",
+    "value": "Change quantity"
+  },
+  {
+    "key": "productPage.quantityInput.increaseQuantity",
+    "value": "Increase quantity"
+  },
+  {
+    "key": "productPage.quantityInput.decreaseQuantity",
+    "value": "Decrease quantity"
+  },
+  {
+    "key": "productPage.quantityInput.maxCartQuantity",
+    "value": "The quantity you can add to your cart is limited"
+  },
+  {
+    "key": "productPage.quantityInput.maxOrderQuantity",
+    "value": "Maximum quantity you can order is"
+  },
+  {
+    "key": "productPage.quantityInput.alreadyMaxInCart",
+    "value": "You already have the maximum quantity allowed in your cart"
+  },
+  {
+    "key": "productPage.notifyModal.title",
+    "value": "Notify me when available"
+  },
+  {
+    "key": "productPage.notifyModal.emailLabel",
+    "value": "Email address"
+  },
+  {
+    "key": "productPage.notifyModal.emailPlaceholder",
+    "value": "Enter Email Address"
+  },
+  {
+    "key": "productPage.notifyModal.submit",
+    "value": "Submit"
+  },
+  {
+    "key": "productPage.notifyModal.success",
+    "value": "We’ll notify you at the email address you provided."
+  },
+  {
+    "key": "productPage.notifyModal.successTitle",
+    "value": "Email sent!"
+  },
+  {
+    "key": "productPage.notifyModal.emailInvalid",
+    "value": "Please enter a valid email address"
+  },
+  {
+    "key": "productPage.notifyModal.errorTitle",
+    "value": "Something went wrong"
+  },
+  {
+    "key": "productPage.notifyModal.errorMessage",
+    "value": "We couldn't submit your request."
+  },
+  {
+    "key": "productPage.notifyModal.retry",
+    "value": "Try again"
+  }
+]

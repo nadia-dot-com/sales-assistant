@@ -1,0 +1,51 @@
+{
+  "_key": "c75dec4f-4f71-4d5c-9dd2-649797ffa57b",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "134e5336-c7c9-4217-87b3-856951cee6ad",
+      "_type": "category",
+      "children": [],
+      "id": "134e5336-c7c9-4217-87b3-856951cee6ad",
+      "key": "gp26_accessories",
+      "level": 2,
+      "show": true,
+      "title": "Accessories"
+    },
+    {
+      "_key": "a16180f0-dbd3-477b-afd9-38f2fd0a3d83",
+      "_type": "category",
+      "children": [],
+      "id": "a16180f0-dbd3-477b-afd9-38f2fd0a3d83",
+      "key": "gp26_food_supplements",
+      "level": 2,
+      "show": true,
+      "title": "Food Supplements"
+    },
+    {
+      "_key": "c24d31ac-284a-4ca2-b884-0c8cb6409cd4",
+      "_type": "category",
+      "children": [],
+      "id": "c24d31ac-284a-4ca2-b884-0c8cb6409cd4",
+      "key": "gp26_other_personal_care_other",
+      "level": 2,
+      "show": true,
+      "title": "Unclassified Personal Care"
+    },
+    {
+      "_key": "5f2d4f0b-613e-4bb9-91d6-39c2807a3480",
+      "_type": "category",
+      "children": [],
+      "id": "5f2d4f0b-613e-4bb9-91d6-39c2807a3480",
+      "key": "gp26_insect_repellents",
+      "level": 2,
+      "show": true,
+      "title": "Insect Repellents"
+    }
+  ],
+  "id": "c75dec4f-4f71-4d5c-9dd2-649797ffa57b",
+  "key": "gp26_other_personal_care",
+  "level": 1,
+  "show": true,
+  "title": "Other Personal Care"
+}

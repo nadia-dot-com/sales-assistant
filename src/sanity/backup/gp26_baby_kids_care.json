@@ -1,0 +1,72 @@
+{
+  "_key": "3099c9cd-2deb-4beb-ad0b-644038a2f9da",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "560f90ee-ebd2-4443-9534-8e677daf146f",
+      "_type": "category",
+      "children": [],
+      "id": "560f90ee-ebd2-4443-9534-8e677daf146f",
+      "key": "gp26_baby_hygiene",
+      "level": 2,
+      "show": true,
+      "title": "Baby Wipes"
+    },
+    {
+      "_key": "d3eafd15-b99b-4a7a-99d5-9b6623c6fc02",
+      "_type": "category",
+      "children": [],
+      "id": "d3eafd15-b99b-4a7a-99d5-9b6623c6fc02",
+      "key": "gp26_baby_kids_care_other",
+      "level": 2,
+      "show": true,
+      "title": "Other Baby Products"
+    },
+    {
+      "_key": "da187c20-13de-41e5-98d5-ac1607aa7854",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "dc719f67-f1c2-4c90-8741-544d30098c34",
+          "_type": "category",
+          "children": [],
+          "id": "dc719f67-f1c2-4c90-8741-544d30098c34",
+          "key": "gp26_diaper_cream",
+          "level": 3,
+          "show": true,
+          "title": "Diaper Creams"
+        },
+        {
+          "_key": "83f56d60-80a3-4ff9-8891-4c4c3e92abb6",
+          "_type": "category",
+          "children": [],
+          "id": "83f56d60-80a3-4ff9-8891-4c4c3e92abb6",
+          "key": "gp26_baby_lotion_oil",
+          "level": 3,
+          "show": true,
+          "title": "Baby Lotions and Oils"
+        }
+      ],
+      "id": "da187c20-13de-41e5-98d5-ac1607aa7854",
+      "key": "gp26_baby_skincare",
+      "level": 2,
+      "show": true,
+      "title": "Baby Skincare"
+    },
+    {
+      "_key": "a826043f-103b-43e9-a0a6-08bbe0e2d3f6",
+      "_type": "category",
+      "children": [],
+      "id": "a826043f-103b-43e9-a0a6-08bbe0e2d3f6",
+      "key": "gp26_baby_washing",
+      "level": 2,
+      "show": true,
+      "title": "Baby Bath"
+    }
+  ],
+  "id": "3099c9cd-2deb-4beb-ad0b-644038a2f9da",
+  "key": "gp26_baby_kids_care",
+  "level": 1,
+  "show": true,
+  "title": "Baby and Kids Care"
+}

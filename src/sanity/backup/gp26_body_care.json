@@ -1,0 +1,216 @@
+{
+  "_key": "e566ce2d-d2b5-4dfc-9a5f-af462aa54926",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "b1c2db29-b302-483e-a2ad-8d5c5dc13f51",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "29e29ca7-0e40-4a2b-bf6d-d9a4a4529d16",
+          "_type": "category",
+          "children": [],
+          "id": "29e29ca7-0e40-4a2b-bf6d-d9a4a4529d16",
+          "key": "gp26_liquid_soap",
+          "level": 3,
+          "show": true,
+          "title": "Liquid Soaps"
+        },
+        {
+          "_key": "9e089b43-6de1-4d35-9b73-82bde20f259d",
+          "_type": "category",
+          "children": [],
+          "id": "9e089b43-6de1-4d35-9b73-82bde20f259d",
+          "key": "gp26_soaps_other",
+          "level": 3,
+          "show": true,
+          "title": "Other Soaps"
+        },
+        {
+          "_key": "bd6dbdbf-f084-4ea0-910e-936a0071c130",
+          "_type": "category",
+          "children": [],
+          "id": "bd6dbdbf-f084-4ea0-910e-936a0071c130",
+          "key": "gp26_bar_soap",
+          "level": 3,
+          "show": true,
+          "title": "Bar Soaps"
+        }
+      ],
+      "id": "b1c2db29-b302-483e-a2ad-8d5c5dc13f51",
+      "key": "gp26_soaps",
+      "level": 2,
+      "show": true,
+      "title": "Soaps"
+    },
+    {
+      "_key": "9cfb8e05-c88c-474b-863e-079b04650a5c",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "657ff99d-31ab-4f1c-b13b-24c4afabf71b",
+          "_type": "category",
+          "children": [],
+          "id": "657ff99d-31ab-4f1c-b13b-24c4afabf71b",
+          "key": "gp26_body_cream_butter",
+          "level": 3,
+          "show": true,
+          "title": "Body Creams"
+        },
+        {
+          "_key": "10d0eaac-568b-4433-9b51-748a1feb0c21",
+          "_type": "category",
+          "children": [],
+          "id": "10d0eaac-568b-4433-9b51-748a1feb0c21",
+          "key": "gp26_body_lotion_milk",
+          "level": 3,
+          "show": true,
+          "title": "Body Lotions"
+        },
+        {
+          "_key": "159ec6d2-1945-4067-98dc-1c5e78cbed45",
+          "_type": "category",
+          "children": [],
+          "id": "159ec6d2-1945-4067-98dc-1c5e78cbed45",
+          "key": "gp26_body_scrub",
+          "level": 3,
+          "show": true,
+          "title": "Body Scrubs"
+        },
+        {
+          "_key": "4e1c026a-61e6-41a8-b8e3-5d53795cbfc4",
+          "_type": "category",
+          "children": [],
+          "id": "4e1c026a-61e6-41a8-b8e3-5d53795cbfc4",
+          "key": "gp26_body_oil",
+          "level": 3,
+          "show": true,
+          "title": "Body Oils"
+        }
+      ],
+      "id": "9cfb8e05-c88c-474b-863e-079b04650a5c",
+      "key": "gp26_body_moisturizers",
+      "level": 2,
+      "show": true,
+      "title": "Body Moisturizers"
+    },
+    {
+      "_key": "62f7827d-89a8-4668-bc1e-081f6f638ab9",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "6727aa1d-f487-40f1-a9fd-ec99de2a3a07",
+          "_type": "category",
+          "children": [],
+          "id": "6727aa1d-f487-40f1-a9fd-ec99de2a3a07",
+          "key": "gp26_lubricants",
+          "level": 3,
+          "show": true,
+          "title": "Lubricant Gels"
+        },
+        {
+          "_key": "5cb1fa6a-43b8-4aff-aa0e-30fca30bb9de",
+          "_type": "category",
+          "children": [],
+          "id": "5cb1fa6a-43b8-4aff-aa0e-30fca30bb9de",
+          "key": "gp26_intimate_hygiene",
+          "level": 3,
+          "show": true,
+          "title": "Intimate Hygiene"
+        }
+      ],
+      "id": "62f7827d-89a8-4668-bc1e-081f6f638ab9",
+      "key": "gp26_intimate_care",
+      "level": 2,
+      "show": true,
+      "title": "Intimate Care"
+    },
+    {
+      "_key": "63315439-9e0c-4889-b976-034882be65b8",
+      "_type": "category",
+      "children": [],
+      "id": "63315439-9e0c-4889-b976-034882be65b8",
+      "key": "gp26_body_care_other",
+      "level": 2,
+      "show": true,
+      "title": "Other Body Care"
+    },
+    {
+      "_key": "74de3ce7-c69d-49b5-806f-7c29b385a547",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "fe84f408-0993-4041-b6b5-18f469dcdc78",
+          "_type": "category",
+          "children": [],
+          "id": "fe84f408-0993-4041-b6b5-18f469dcdc78",
+          "key": "gp26_bath_products",
+          "level": 3,
+          "show": true,
+          "title": "Bath Products"
+        },
+        {
+          "_key": "d9d8b4f0-5af8-4db8-bd6e-8233820c5ebb",
+          "_type": "category",
+          "children": [],
+          "id": "d9d8b4f0-5af8-4db8-bd6e-8233820c5ebb",
+          "key": "gp26_shower_gel",
+          "level": 3,
+          "show": true,
+          "title": "Shower Gels"
+        }
+      ],
+      "id": "74de3ce7-c69d-49b5-806f-7c29b385a547",
+      "key": "gp26_shower_bath",
+      "level": 2,
+      "show": true,
+      "title": "Shower and Bath"
+    },
+    {
+      "_key": "80e4426e-b062-4ebe-ac7a-c490dc5c8401",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "d59ecfc1-4834-474d-b87e-8d98e00355ae",
+          "_type": "category",
+          "children": [],
+          "id": "d59ecfc1-4834-474d-b87e-8d98e00355ae",
+          "key": "gp26_foot_care",
+          "level": 3,
+          "show": true,
+          "title": "Foot Care"
+        },
+        {
+          "_key": "aa6f09af-ac0d-429c-ae87-4adf966ff8c1",
+          "_type": "category",
+          "children": [],
+          "id": "aa6f09af-ac0d-429c-ae87-4adf966ff8c1",
+          "key": "gp26_hand_cream",
+          "level": 3,
+          "show": true,
+          "title": "Hand Creams"
+        },
+        {
+          "_key": "8c411029-8690-4edd-9ac8-b56e69e46725",
+          "_type": "category",
+          "children": [],
+          "id": "8c411029-8690-4edd-9ac8-b56e69e46725",
+          "key": "gp26_nail_care",
+          "level": 3,
+          "show": true,
+          "title": "Nail Care"
+        }
+      ],
+      "id": "80e4426e-b062-4ebe-ac7a-c490dc5c8401",
+      "key": "gp26_hand_foot_care",
+      "level": 2,
+      "show": true,
+      "title": "Hand and Foot Care"
+    }
+  ],
+  "id": "e566ce2d-d2b5-4dfc-9a5f-af462aa54926",
+  "key": "gp26_body_care",
+  "level": 1,
+  "show": true,
+  "title": "Body Care"
+}

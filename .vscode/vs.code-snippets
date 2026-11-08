@@ -1,0 +1,15 @@
+{
+  "[TSX] Create Chakra UI styles": {
+    "prefix": ["const styles", "crs"],
+    "body": [
+      "const styles = {",
+      "  $1",
+      "} as const satisfies GlobalStyleObject"
+    ]
+  },
+  "Create TAG for E2E tests": {
+    "prefix": ["tag", "testid"],
+    "body": ["const TAG = \"${TM_FILENAME_BASE}\";"],
+    "description": "Create TAG for E2E tests"
+  }
+}

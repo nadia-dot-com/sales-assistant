@@ -1,0 +1,94 @@
+[
+  {
+    "key": "rootLayout.metadata.title",
+    "value": "Sales Assistant — Your Smart Sales Companion"
+  },
+  {
+    "key": "rootLayout.metadata.description",
+    "value": "Streamline your sales process with intelligent product recommendations, campaign tracking, and seamless order management"
+  },
+  {
+    "key": "rootLayout.header.logo.alt",
+    "value": "Sales Assistant Logo"
+  },
+  {
+    "key": "rootLayout.header.searchBar.placeholder",
+    "value": "Search"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.emptyState.title",
+    "value": "Your cart is empty"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.emptyState.description",
+    "value": "Explore our products and add items to your cart"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.title",
+    "value": "Go to Cart"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.removeItem",
+    "value": "Remove item from cart"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.productsInCart.one",
+    "value": "Product in Cart"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.productsInCart.other",
+    "value": "Products in Cart"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.total",
+    "value": "Total:"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.perItem",
+    "value": "1 X"
+  },
+  {
+    "key": "rootLayout.header.cartIcon.maxQuantityTooltip",
+    "value": "Sorry, the quantity of this product per order is limited"
+  },
+  {
+    "key": "rootLayout.header.accountIcon.title",
+    "value": "Go to Account"
+  },
+  {
+    "key": "rootLayout.header.categories.title",
+    "value": "All Categories"
+  },
+  {
+    "key": "rootLayout.header.campaigns.title",
+    "value": "Campaigns"
+  },
+  {
+    "key": "rootLayout.header.burger.choose",
+    "value": "Choose"
+  },
+  {
+    "key": "rootLayout.footer.logo.alt",
+    "value": "Sales Assistant logo. Go to the home page"
+  },
+  {
+    "key": "rootLayout.footer.rights",
+    "value": "All Rights Reserved."
+  },
+  {
+    "key": "rootLayout.footer.contact.title",
+    "value": "Contact"
+  },
+  {
+    "key": "rootLayout.footer.links.title",
+    "value": "Links"
+  },
+  {
+    "key": "rootLayout.footer.socials.title",
+    "value": "Follow Us"
+  },
+  {
+    "key": "rootLayout.footer.paymentMethods.title",
+    "value": "Payment methods"
+  }
+]

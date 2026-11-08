@@ -1,0 +1,74 @@
+[
+  {
+    "key": "registerPage.legend.title",
+    "value": "Create your account"
+  },
+  {
+    "key": "registerPage.legend.description",
+    "value": "Provide your details to create an account"
+  },
+  {
+    "key": "registerPage.duplicatedAccount",
+    "value": "You already have an account"
+  },
+  {
+    "key": "registerPage.submit",
+    "value": "Register"
+  },
+  {
+    "key": "registerPage.firstName.label",
+    "value": "First name"
+  },
+  {
+    "key": "registerPage.firstName.placeholder",
+    "value": "Enter your first name"
+  },
+  {
+    "key": "registerPage.lastName.label",
+    "value": "Last name"
+  },
+  {
+    "key": "registerPage.lastName.placeholder",
+    "value": "Enter your last name"
+  },
+  {
+    "key": "registerPage.email.label",
+    "value": "Email"
+  },
+  {
+    "key": "registerPage.email.placeholder",
+    "value": "Enter your Email"
+  },
+  {
+    "key": "registerPage.password.label",
+    "value": "Password"
+  },
+  {
+    "key": "registerPage.password.placeholder",
+    "value": "Enter your password"
+  },
+  {
+    "key": "registerPage.password.lowercaseHint",
+    "value": "Password should contain at least one lower case letter"
+  },
+  {
+    "key": "registerPage.password.uppercaseHint",
+    "value": "Password should contain at least one case letter"
+  },
+  {
+    "key": "registerPage.password.specialCharacterHint",
+    "value": "Password should at least one special character"
+  },
+  {
+    "key": "registerPage.error.unableToRegister",
+    "value": "Unable to complete registration"
+  },
+  {
+    "key": "registerPage.linkSection.title",
+    "value": "You have an account?"
+  },
+  {
+    "key": "registerPage.linkSection.linkText",
+    "value": "Log In now"
+  }
+]

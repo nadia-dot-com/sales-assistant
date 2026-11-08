@@ -1,0 +1,70 @@
+[
+  {
+    "key": "searchPage.error.invalidSearch",
+    "value": "You cannot search without any query or categories filters"
+  },
+  {
+    "key": "searchPage.searchingFor",
+    "value": "Searching for:"
+  },
+  {
+    "key": "searchPage.productListPagination.label",
+    "value": "Pagination"
+  },
+  {
+    "key": "searchPage.productListPagination.previousPage",
+    "value": "Previous page"
+  },
+  {
+    "key": "searchPage.productListPagination.nextPage",
+    "value": "Next page"
+  },
+  {
+    "key": "searchPage.productsList.totalProducts",
+    "value": "Total Products:"
+  },
+  {
+    "key": "searchPage.productsList.emptyState.title",
+    "value": "No results found"
+  },
+  {
+    "key": "searchPage.productsList.emptyState.description",
+    "value": "Try adjusting your search"
+  },
+  {
+    "key": "searchPage.filtersBar.showFilters",
+    "value": "Show Filters"
+  },
+  {
+    "key": "searchPage.filtersBar.hideFilters",
+    "value": "Hide Filters"
+  },
+  {
+    "key": "searchPage.priceRangeSlider.label",
+    "value": "Price Range"
+  },
+  {
+    "key": "searchPage.clearAllFiltersButton.label",
+    "value": "Clear All"
+  },
+  {
+    "key": "searchPage.sortSelect.placeholder",
+    "value": "Sorted by:"
+  },
+  {
+    "key": "searchPage.sortSelect.name_asc",
+    "value": "Sort By: name A to Z"
+  },
+  {
+    "key": "searchPage.sortSelect.name_desc",
+    "value": "Sort By: name Z to A"
+  },
+  {
+    "key": "searchPage.sortSelect.price_asc",
+    "value": "Sort By: lowest Price"
+  },
+  {
+    "key": "searchPage.sortSelect.price_desc",
+    "value": "Sort By: highest Price"
+  }
+]

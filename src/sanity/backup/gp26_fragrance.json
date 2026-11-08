@@ -1,0 +1,41 @@
+{
+  "_key": "bad24edd-8bf7-479a-a2a0-e62fcc4a9378",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "f8d094e4-9a77-4395-a3f4-bfb954fbe13c",
+      "_type": "category",
+      "children": [],
+      "id": "f8d094e4-9a77-4395-a3f4-bfb954fbe13c",
+      "key": "gp26_eau_de_parfum",
+      "level": 2,
+      "show": true,
+      "title": "Eau de Parfum"
+    },
+    {
+      "_key": "912e4305-1e7c-43d1-a337-ce8d577b49d7",
+      "_type": "category",
+      "children": [],
+      "id": "912e4305-1e7c-43d1-a337-ce8d577b49d7",
+      "key": "gp26_eau_de_toilette",
+      "level": 2,
+      "show": true,
+      "title": "Eau de Toilette"
+    },
+    {
+      "_key": "ee971a5a-8d54-4edb-8264-da324f1e2ac6",
+      "_type": "category",
+      "children": [],
+      "id": "ee971a5a-8d54-4edb-8264-da324f1e2ac6",
+      "key": "gp26_fragrance_other",
+      "level": 2,
+      "show": true,
+      "title": "Other Fragrance"
+    }
+  ],
+  "id": "bad24edd-8bf7-479a-a2a0-e62fcc4a9378",
+  "key": "gp26_fragrance",
+  "level": 1,
+  "show": true,
+  "title": "Fragrance"
+}

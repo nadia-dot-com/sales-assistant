@@ -1,0 +1,98 @@
+[
+  {
+    "key": "common.loadingText",
+    "value": "Loading..."
+  },
+  {
+    "key": "common.viewAll",
+    "value": "View All"
+  },
+  {
+    "key": "common.allCategories",
+    "value": "All Categories"
+  },
+  {
+    "key": "common.closeButton.close",
+    "value": "Close"
+  },
+  {
+    "key": "common.errors.unexpected",
+    "value": "Something went wrong. Please try again."
+  },
+  {
+    "key": "common.cartToasts.addToCart.success.title",
+    "value": "Added to cart"
+  },
+  {
+    "key": "common.cartToasts.addToCart.success.description",
+    "value": "The item has been added to your cart."
+  },
+  {
+    "key": "common.cartToasts.addToCart.error.title",
+    "value": "Couldn't add to cart"
+  },
+  {
+    "key": "common.cartToasts.addToCart.error.description",
+    "value": "Something went wrong while adding the item."
+  },
+  {
+    "key": "common.cartToasts.updateQuantity.success.title",
+    "value": "Quantity updated"
+  },
+  {
+    "key": "common.cartToasts.updateQuantity.success.description",
+    "value": "Your cart has been updated."
+  },
+  {
+    "key": "common.cartToasts.updateQuantity.error.title",
+    "value": "Quantity limit reached"
+  },
+  {
+    "key": "common.cartToasts.updateQuantity.error.description",
+    "value": "You've reached the maximum quantity for this item."
+  },
+  {
+    "key": "common.cartToasts.removeFromCart.success.title",
+    "value": "Item removed"
+  },
+  {
+    "key": "common.cartToasts.removeFromCart.success.description",
+    "value": "The item has been removed from your cart."
+  },
+  {
+    "key": "common.cartToasts.removeFromCart.error.title",
+    "value": "Couldn't remove item"
+  },
+  {
+    "key": "common.cartToasts.removeFromCart.error.description",
+    "value": "Something went wrong while removing the item. Please try again."
+  },
+  {
+    "key": "common.cartToasts.cleanCart.success.title",
+    "value": "Cart cleared"
+  },
+  {
+    "key": "common.cartToasts.cleanCart.success.description",
+    "value": "All items have been removed from your cart."
+  },
+  {
+    "key": "common.cartToasts.cleanCart.error.title",
+    "value": "Couldn't clear cart"
+  },
+  {
+    "key": "common.cartToasts.cleanCart.error.description",
+    "value": "Something went wrong while clearing your cart. Please try again."
+  },
+  {
+    "key": "common.error.title",
+    "value": "Something went wrong"
+  },
+  {
+    "key": "common.error.message",
+    "value": "We couldn't load this page. Please try again."
+  },
+  {
+    "key": "common.error.retry",
+    "value": "Try again"
+  }
+]

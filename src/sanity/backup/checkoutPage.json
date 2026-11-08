@@ -1,0 +1,142 @@
+[
+  {
+    "key": "checkoutPage.title",
+    "value": "Checkout"
+  },
+  {
+    "key": "checkoutPage.contact.title",
+    "value": "Contact"
+  },
+  {
+    "key": "checkoutPage.address.title",
+    "value": "Address"
+  },
+  {
+    "key": "checkoutPage.address.streetName.label",
+    "value": "Street name"
+  },
+  {
+    "key": "checkoutPage.address.streetName.placeholder",
+    "value": "Enter street name"
+  },
+  {
+    "key": "checkoutPage.address.streetNumber.label",
+    "value": "Street number"
+  },
+  {
+    "key": "checkoutPage.address.streetNumber.placeholder",
+    "value": "Enter street number"
+  },
+  {
+    "key": "checkoutPage.address.city.label",
+    "value": "City"
+  },
+  {
+    "key": "checkoutPage.address.city.placeholder",
+    "value": "Enter city"
+  },
+  {
+    "key": "checkoutPage.address.postalCode.label",
+    "value": "Postal code"
+  },
+  {
+    "key": "checkoutPage.address.postalCode.placeholder",
+    "value": "Enter postal code"
+  },
+  {
+    "key": "checkoutPage.address.country.label",
+    "value": "Country"
+  },
+  {
+    "key": "checkoutPage.address.country.placeholder",
+    "value": "Select country"
+  },
+  {
+    "key": "checkoutPage.address.save",
+    "value": "Save address"
+  },
+  {
+    "key": "checkoutPage.address.streetName.errors.required",
+    "value": "Street name is required"
+  },
+  {
+    "key": "checkoutPage.address.streetNumber.errors.required",
+    "value": "Street number is required"
+  },
+  {
+    "key": "checkoutPage.address.city.errors.required",
+    "value": "City is required"
+  },
+  {
+    "key": "checkoutPage.address.postalCode.errors.required",
+    "value": "Postal code is required"
+  },
+  {
+    "key": "checkoutPage.address.errors.invalidCountry",
+    "value": "Enter a valid 2-letter country code"
+  },
+  {
+    "key": "checkoutPage.address.errors.saveFailed",
+    "value": "We couldn't save your address. Please try again."
+  },
+  {
+    "key": "checkoutPage.delivery.title",
+    "value": "Delivery addresses"
+  },
+  {
+    "key": "checkoutPage.delivery.defaultAddress.label",
+    "value": "Default address"
+  },
+  {
+    "key": "checkoutPage.delivery.newAddress.label",
+    "value": "New delivery address"
+  },
+  {
+    "key": "checkoutPage.payment.title",
+    "value": "Payment"
+  },
+  {
+    "key": "checkoutPage.payment.cash.label",
+    "value": "Cash"
+  },
+  {
+    "key": "checkoutPage.payment.paymentCard.label",
+    "value": "Payment Card"
+  },
+  {
+    "key": "checkoutPage.payment.cash.description",
+    "value": "Pay with cash upon pickup"
+  },
+  {
+    "key": "checkoutPage.loginRequired.title",
+    "value": "Please log in to continue"
+  },
+  {
+    "key": "checkoutPage.loginRequired.button",
+    "value": "Log in"
+  },
+  {
+    "key": "checkoutPage.success.title",
+    "value": "Order completed"
+  },
+  {
+    "key": "checkoutPage.success.description",
+    "value": "Thank you for your purchase. Your order is being prepared."
+  },
+  {
+    "key": "checkoutPage.success.backButton",
+    "value": "Back to shop"
+  },
+  {
+    "key": "checkoutPage.error.title",
+    "value": "Something went wrong"
+  },
+  {
+    "key": "checkoutPage.error.description",
+    "value": "We couldn't complete your order. Please try again later."
+  },
+  {
+    "key": "checkoutPage.error.backButton",
+    "value": "Back to cart"
+  }
+]

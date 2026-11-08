@@ -1,0 +1,22 @@
+{
+  "--active-text-color": "#F8FAFC",
+  "--background-color": "#ffffff",
+  "--dark-background-color": "#0f172b",
+  "--destructive-color": "#E7000B",
+  "--foreground-color": "#45474A",
+  "--heading-color": "#07133b",
+  "--heading-font-family": "Instrument Sans, sans-serif",
+  "--success-color": "#15803D",
+  "--success-color-subtle": "#DCFCE7",
+  "--input-border-color": "#EEEEEE",
+  "--input-dark-border-color": "#E0E0E0",
+  "--inverse-text-color": "#7393Ae",
+  "--light-gray-background-color": "#f0f0f0",
+  "--light-primary-color": "#eff1ff",
+  "--muted-text-color": "#45474a",
+  "--neutral-color": "#A0AEC0",
+  "--primary-color": "#3350F6",
+  "--primary-hover-color": "#092AE1",
+  "--progress-color": "#5beb34",
+  "--text-font-family": "DM Sans, sans-serif"
+}

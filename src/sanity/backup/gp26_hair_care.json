@@ -1,0 +1,214 @@
+{
+  "_key": "a56f9753-7696-4737-ba53-df8522863d52",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "676ce10a-dede-4102-b898-a0f49df277f0",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "9ade44d6-0f41-4b08-93d6-a49aa304043d",
+          "_type": "category",
+          "children": [],
+          "id": "9ade44d6-0f41-4b08-93d6-a49aa304043d",
+          "key": "gp26_hair_treatments_other",
+          "level": 3,
+          "show": true,
+          "title": "Other Hair Treatments"
+        },
+        {
+          "_key": "2f45164e-2168-4d19-adc5-3ed172ded579",
+          "_type": "category",
+          "children": [],
+          "id": "2f45164e-2168-4d19-adc5-3ed172ded579",
+          "key": "gp26_hair_mask",
+          "level": 3,
+          "show": true,
+          "title": "Hair Masks"
+        },
+        {
+          "_key": "4d13e5e9-28dd-4623-b96a-ebb5c3f95b20",
+          "_type": "category",
+          "children": [],
+          "id": "4d13e5e9-28dd-4623-b96a-ebb5c3f95b20",
+          "key": "gp26_hair_loss_scalp",
+          "level": 3,
+          "show": true,
+          "title": "Scalp Care"
+        },
+        {
+          "_key": "ddbfca50-dc24-467a-a6a9-a90d3b42c65f",
+          "_type": "category",
+          "children": [],
+          "id": "ddbfca50-dc24-467a-a6a9-a90d3b42c65f",
+          "key": "gp26_hair_oil_serum",
+          "level": 3,
+          "show": true,
+          "title": "Hair Oils and Serums"
+        },
+        {
+          "_key": "ff3e1460-0f38-4387-8855-cdb75da31ee9",
+          "_type": "category",
+          "children": [],
+          "id": "ff3e1460-0f38-4387-8855-cdb75da31ee9",
+          "key": "gp26_anti_dandruff",
+          "level": 3,
+          "show": true,
+          "title": "Anti-Dandruff Shampoo"
+        }
+      ],
+      "id": "676ce10a-dede-4102-b898-a0f49df277f0",
+      "key": "gp26_hair_treatments",
+      "level": 2,
+      "show": true,
+      "title": "Hair Treatments"
+    },
+    {
+      "_key": "97f4bd99-becc-4d5b-a264-ea14c9f34576",
+      "_type": "category",
+      "children": [],
+      "id": "97f4bd99-becc-4d5b-a264-ea14c9f34576",
+      "key": "gp26_hair_coloring",
+      "level": 2,
+      "show": true,
+      "title": "Hair Colouring"
+    },
+    {
+      "_key": "fcdf9f54-e793-408a-9624-0eaa825b6d6a",
+      "_type": "category",
+      "children": [],
+      "id": "fcdf9f54-e793-408a-9624-0eaa825b6d6a",
+      "key": "gp26_hair_accessories",
+      "level": 2,
+      "show": true,
+      "title": "Hair Accessories"
+    },
+    {
+      "_key": "de3b716b-3913-41af-a46a-56fffbc39d5a",
+      "_type": "category",
+      "children": [],
+      "id": "de3b716b-3913-41af-a46a-56fffbc39d5a",
+      "key": "gp26_hair_conditioners",
+      "level": 2,
+      "show": true,
+      "title": "Conditioners"
+    },
+    {
+      "_key": "f2509eb9-5d43-47ce-bc69-04f5fce370fd",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "b34a8eff-fea7-494e-a1bf-550ff4f923d4",
+          "_type": "category",
+          "children": [],
+          "id": "b34a8eff-fea7-494e-a1bf-550ff4f923d4",
+          "key": "gp26_shampoo_kids",
+          "level": 3,
+          "show": true,
+          "title": "Kids Shampoo"
+        },
+        {
+          "_key": "27f570a5-0632-4a57-8160-3b9569db03d3",
+          "_type": "category",
+          "children": [],
+          "id": "27f570a5-0632-4a57-8160-3b9569db03d3",
+          "key": "gp26_shampoo_dry_shampoo",
+          "level": 3,
+          "show": true,
+          "title": "Dry Shampoo"
+        },
+        {
+          "_key": "be9767c4-01a3-49a0-9090-9589e0b95f42",
+          "_type": "category",
+          "children": [],
+          "id": "be9767c4-01a3-49a0-9090-9589e0b95f42",
+          "key": "gp26_shampoo_2in1",
+          "level": 3,
+          "show": true,
+          "title": "Shampoo 2-in-1"
+        },
+        {
+          "_key": "4db0c83c-0f94-4eb8-9f24-d781adb81f1b",
+          "_type": "category",
+          "children": [],
+          "id": "4db0c83c-0f94-4eb8-9f24-d781adb81f1b",
+          "key": "gp26_shampoos_other",
+          "level": 3,
+          "show": true,
+          "title": "Other Shampoos"
+        }
+      ],
+      "id": "f2509eb9-5d43-47ce-bc69-04f5fce370fd",
+      "key": "gp26_shampoos",
+      "level": 2,
+      "show": true,
+      "title": "Shampoos"
+    },
+    {
+      "_key": "4af022ea-c4f1-4eef-b428-7ccbcc8a47f8",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "f6ac30bc-5f98-4519-9500-a892ce5b46ae",
+          "_type": "category",
+          "children": [],
+          "id": "f6ac30bc-5f98-4519-9500-a892ce5b46ae",
+          "key": "gp26_hair_mousse_other_styling",
+          "level": 3,
+          "show": true,
+          "title": "Styling Mousses"
+        },
+        {
+          "_key": "da24eb3b-91a2-4e36-bfdc-cb1a8103ad37",
+          "_type": "category",
+          "children": [],
+          "id": "da24eb3b-91a2-4e36-bfdc-cb1a8103ad37",
+          "key": "gp26_hair_gel_wax",
+          "level": 3,
+          "show": true,
+          "title": "Gels and Waxes"
+        },
+        {
+          "_key": "a1389c5d-28ff-477a-b6f0-ec630d6d9e7f",
+          "_type": "category",
+          "children": [],
+          "id": "a1389c5d-28ff-477a-b6f0-ec630d6d9e7f",
+          "key": "gp26_hair_styling_other",
+          "level": 3,
+          "show": true,
+          "title": "Other Hair Styling"
+        },
+        {
+          "_key": "39706a7a-9852-44fc-8f64-58d6d2026d94",
+          "_type": "category",
+          "children": [],
+          "id": "39706a7a-9852-44fc-8f64-58d6d2026d94",
+          "key": "gp26_hair_spray",
+          "level": 3,
+          "show": true,
+          "title": "Hair Sprays"
+        }
+      ],
+      "id": "4af022ea-c4f1-4eef-b428-7ccbcc8a47f8",
+      "key": "gp26_hair_styling",
+      "level": 2,
+      "show": true,
+      "title": "Hair Styling"
+    },
+    {
+      "_key": "3d5892e7-c440-44f0-b627-0142c77ec5c2",
+      "_type": "category",
+      "children": [],
+      "id": "3d5892e7-c440-44f0-b627-0142c77ec5c2",
+      "key": "gp26_hair_care_other",
+      "level": 2,
+      "show": true,
+      "title": "Other Hair Care"
+    }
+  ],
+  "id": "a56f9753-7696-4737-ba53-df8522863d52",
+  "key": "gp26_hair_care",
+  "level": 1,
+  "show": true,
+  "title": "Hair Care"
+}

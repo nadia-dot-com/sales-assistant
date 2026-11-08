@@ -1,0 +1,50 @@
+[
+  {
+    "key": "authLayout.forms.errors.invalidCredentials",
+    "value": "Invalid email or password"
+  },
+  {
+    "key": "authLayout.forms.errors.invalidEmail",
+    "value": "Please enter a valid email address"
+  },
+  {
+    "key": "authLayout.forms.errors.password.tooShort",
+    "value": "Password should contain at least 8 characters"
+  },
+  {
+    "key": "authLayout.forms.errors.password.tooLong",
+    "value": "Password should contain maximum 64 characters"
+  },
+  {
+    "key": "authLayout.forms.errors.password.lowercase",
+    "value": "Password should contain at least one lower case letter"
+  },
+  {
+    "key": "authLayout.forms.errors.password.uppercase",
+    "value": "Password should contain at least one upper case letter"
+  },
+  {
+    "key": "authLayout.forms.errors.password.special",
+    "value": "Password should contain at least one special character"
+  },
+  {
+    "key": "authLayout.forms.errors.firstName.tooShort",
+    "value": "First name should contain at least 3 characters"
+  },
+  {
+    "key": "authLayout.forms.errors.firstName.tooLong",
+    "value": "First name should contain maximum 64 characters"
+  },
+  {
+    "key": "authLayout.forms.errors.lastName.tooShort",
+    "value": "Last name should contain at least 3 characters"
+  },
+  {
+    "key": "authLayout.forms.errors.lastName.tooLong",
+    "value": "Last name should contain maximum 64 characters"
+  },
+  {
+    "key": "authLayout.goBackButton.title",
+    "value": "Go Back"
+  }
+]

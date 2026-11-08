@@ -1,0 +1,461 @@
+{
+  "loginPage": {
+    "legend": {
+      "title": "Log in to your account",
+      "description": "Provide your email and password for logging in"
+    },
+    "submit": "Log in",
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your Email"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password"
+    },
+    "linkSection": {
+      "title": "You dont have an account?",
+      "linkText": "Create one now"
+    }
+  },
+  "registerPage": {
+    "legend": {
+      "title": "Create your account",
+      "description": "Provide your details to create an account"
+    },
+    "duplicatedAccount": "You already have an account",
+    "submit": "Register",
+    "firstName": {
+      "label": "First name",
+      "placeholder": "Enter your first name"
+    },
+    "lastName": {
+      "label": "Last name",
+      "placeholder": "Enter your last name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your Email"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password",
+      "lowercaseHint": "Password should contain at least one lower case letter",
+      "uppercaseHint": "Password should contain at least one case letter",
+      "specialCharacterHint": "Password should at least one special character"
+    },
+    "error": {
+      "unableToRegister": "Unable to complete registration"
+    },
+    "linkSection": {
+      "title": "You have an account?",
+      "linkText": "Log In now"
+    }
+  },
+  "authLayout": {
+    "forms": {
+      "errors": {
+        "invalidCredentials": "Invalid email or password",
+        "invalidEmail": "Please enter a valid email address",
+        "password": {
+          "tooShort": "Password should contain at least 8 characters",
+          "tooLong": "Password should contain maximum 64 characters",
+          "lowercase": "Password should contain at least one lower case letter",
+          "uppercase": "Password should contain at least one upper case letter",
+          "special": "Password should contain at least one special character"
+        },
+        "firstName": {
+          "tooShort": "First name should contain at least 3 characters",
+          "tooLong": "First name should contain maximum 64 characters"
+        },
+        "lastName": {
+          "tooShort": "Last name should contain at least 3 characters",
+          "tooLong": "Last name should contain maximum 64 characters"
+        }
+      }
+    },
+    "goBackButton": {
+      "title": "Go Back"
+    }
+  },
+  "salesAssistantPage": {
+    "voiceRecognition": {
+      "unsupportedBrowser": "Your browser does not support a speech recognition, change it to another.",
+      "enableMicrophone": "Please enable microphone in your browser",
+      "lastSentMessage": "Last sent message:",
+      "status": {
+        "off": "Voice recognition off",
+        "recording": "Voice recognition recording"
+      },
+      "listening": "Listening...",
+      "placeholder": "Type here...",
+      "inputLabel": "Message"
+    },
+    "languageSwitcher": {
+      "label": "Select Language"
+    },
+    "chat": {
+      "genericError": "Something went wrong.",
+      "extractionError": "We couldn't handle your request",
+      "productsError": "We couldn't load the products.",
+      "noSearchIntent": "I didn’t find anything to search for. Try asking again. ",
+      "message": {
+        "myMessage": "my message",
+        "keyword": "ai chat message: keyword",
+        "results": "ai chat message: results",
+        "keywordExtractionError": "ai chat message: keyword extraction error",
+        "searchError": "ai chat message: search error"
+      },
+      "keywords": {
+        "label": "search keywords",
+        "error": {
+          "title": "Keywords Error"
+        }
+      },
+      "products": {
+        "error": {
+          "title": "Products Error"
+        }
+      },
+      "note": {
+        "label": "note"
+      },
+      "grid": {
+        "label": "products"
+      },
+      "sendMessage": {
+        "label": "Send message"
+      },
+      "scrollDown": {
+        "label": "Scroll to the latest message"
+      }
+    },
+    "welcome": {
+      "message": "How can I help you?"
+    }
+  },
+  "accountPage": {
+    "logOutButton": {
+      "title": "Log Out"
+    },
+    "welcome": "Account for"
+  },
+  "campaignPage": {
+    "welcome": "Welcome to our Campaign nr."
+  },
+  "cartPage": {
+    "orderSummary": {
+      "productsValue": "Products value",
+      "delivery": "Delivery",
+      "totalToPay": "Total to pay",
+      "inclVat": "incl. VAT",
+      "checkout": "Go to Checkout",
+      "weAccept": "We accept"
+    }
+  },
+  "contactPage": {
+    "title": "Contact"
+  },
+  "orderPage": {
+    "orderNumber": "Order number:"
+  },
+  "productPage": {
+    "category": "Category:",
+    "breadcrumb": {
+      "home": "Home"
+    },
+    "stockInformation": {
+      "inStock": "In stock",
+      "lowStock": "Low stock",
+      "outOfStock": "Out of stock",
+      "notify": "Notify me"
+    },
+    "productTabs": {
+      "description": "Description",
+      "descriptionEmpty": "No description",
+      "additionalInformation": "Additional information",
+      "additionalInformationEmpty": "No Additional Information",
+      "ingredients": "Ingredients",
+      "ingredientsEmpty": "No ingredients information",
+      "reviews": "Reviews",
+      "reviewsEmpty": "No reviews yet.",
+      "parameters": {
+        "netContent": "Volume",
+        "productForm": "Formula",
+        "manufacturingCountry": "Country of origin",
+        "targetNeed": "Suitable for",
+        "packaging": "Packaging"
+      }
+    },
+    "purchaseSection": {
+      "addToCart": "Add to cart"
+    },
+    "quantityInput": {
+      "changeQuantity": "Change quantity",
+      "increaseQuantity": "Increase quantity",
+      "decreaseQuantity": "Decrease quantity",
+      "maxCartQuantity": "The quantity you can add to your cart is limited",
+      "maxOrderQuantity": "Maximum quantity you can order is",
+      "alreadyMaxInCart": "You already have the maximum quantity allowed in your cart"
+    },
+    "notifyModal": {
+      "title": "Notify me when available",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "Enter Email Address",
+      "submit": "Submit",
+      "success": "We’ll notify you at the email address you provided.",
+      "successTitle": "Email sent!",
+      "emailInvalid": "Please enter a valid email address",
+      "errorTitle": "Something went wrong",
+      "errorMessage": "We couldn't submit your request.",
+      "retry": "Try again"
+    }
+  },
+  "searchPage": {
+    "error": {
+      "invalidSearch": "You cannot search without any query or categories filters"
+    },
+    "searchingFor": "Searching for:",
+    "productListPagination": {
+      "label": "Pagination",
+      "previousPage": "Previous page",
+      "nextPage": "Next page"
+    },
+    "productsList": {
+      "totalProducts": "Total Products:",
+      "emptyState": {
+        "title": "No results found",
+        "description": "Try adjusting your search"
+      }
+    },
+    "filtersBar": {
+      "showFilters": "Show Filters",
+      "hideFilters": "Hide Filters"
+    },
+    "priceRangeSlider": {
+      "label": "Price Range"
+    },
+    "clearAllFiltersButton": {
+      "label": "Clear All"
+    },
+    "sortSelect": {
+      "placeholder": "Sorted by:",
+      "name_asc": "Sort By: name A to Z",
+      "name_desc": "Sort By: name Z to A",
+      "price_asc": "Sort By: lowest Price",
+      "price_desc": "Sort By: highest Price"
+    }
+  },
+  "checkoutPage": {
+    "title": "Checkout",
+    "contact": {
+      "title": "Contact"
+    },
+    "address": {
+      "title": "Address",
+      "streetName": {
+        "label": "Street name",
+        "placeholder": "Enter street name",
+        "errors": {
+          "required": "Street name is required"
+        }
+      },
+      "streetNumber": {
+        "label": "Street number",
+        "placeholder": "Enter street number",
+        "errors": {
+          "required": "Street number is required"
+        }
+      },
+      "city": {
+        "label": "City",
+        "placeholder": "Enter city",
+        "errors": {
+          "required": "City is required"
+        }
+      },
+      "postalCode": {
+        "label": "Postal code",
+        "placeholder": "Enter postal code",
+        "errors": {
+          "required": "Postal code is required"
+        }
+      },
+      "country": {
+        "label": "Country",
+        "placeholder": "Select country"
+      },
+      "save": "Save address",
+      "errors": {
+        "invalidCountry": "Enter a valid 2-letter country code",
+        "saveFailed": "We couldn't save your address. Please try again."
+      }
+    },
+    "delivery": {
+      "title": "Delivery addresses",
+      "defaultAddress": {
+        "label": "Default address"
+      },
+      "newAddress": {
+        "label": "New delivery address"
+      }
+    },
+    "payment": {
+      "title": "Payment",
+      "cash": {
+        "label": "Cash",
+        "description": "Pay with cash upon pickup"
+      },
+      "paymentCard": {
+        "label": "Payment Card"
+      }
+    },
+    "loginRequired": {
+      "title": "Please log in to continue",
+      "button": "Log in"
+    },
+    "success": {
+      "title": "Order completed",
+      "description": "Thank you for your purchase. Your order is being prepared.",
+      "backButton": "Back to shop"
+    },
+    "error": {
+      "title": "Something went wrong",
+      "description": "We couldn't complete your order. Please try again later.",
+      "backButton": "Back to cart"
+    }
+  },
+  "checkout": {
+    "completeOrder": "Complete Order"
+  },
+  "common": {
+    "loadingText": "Loading...",
+    "viewAll": "View All",
+    "allCategories": "All Categories",
+    "closeButton": {
+      "close": "Close"
+    },
+    "errors": {
+      "unexpected": "Something went wrong. Please try again."
+    },
+    "cartToasts": {
+      "addToCart": {
+        "success": {
+          "title": "Added to cart",
+          "description": "The item has been added to your cart."
+        },
+        "error": {
+          "title": "Couldn't add to cart",
+          "description": "Something went wrong while adding the item."
+        }
+      },
+      "updateQuantity": {
+        "success": {
+          "title": "Quantity updated",
+          "description": "Your cart has been updated."
+        },
+        "error": {
+          "title": "Quantity limit reached",
+          "description": "You've reached the maximum quantity for this item."
+        }
+      },
+      "removeFromCart": {
+        "success": {
+          "title": "Item removed",
+          "description": "The item has been removed from your cart."
+        },
+        "error": {
+          "title": "Couldn't remove item",
+          "description": "Something went wrong while removing the item. Please try again."
+        }
+      },
+      "cleanCart": {
+        "success": {
+          "title": "Cart cleared",
+          "description": "All items have been removed from your cart."
+        },
+        "error": {
+          "title": "Couldn't clear cart",
+          "description": "Something went wrong while clearing your cart. Please try again."
+        }
+      }
+    },
+    "error": {
+      "title": "Something went wrong",
+      "message": "We couldn't load this page. Please try again.",
+      "retry": "Try again"
+    }
+  },
+  "rootLayout": {
+    "metadata": {
+      "title": "Sales Assistant — Your Smart Sales Companion",
+      "description": "Streamline your sales process with intelligent product recommendations, campaign tracking, and seamless order management"
+    },
+    "header": {
+      "logo": {
+        "alt": "Sales Assistant Logo"
+      },
+      "searchBar": {
+        "placeholder": "Search"
+      },
+      "cartIcon": {
+        "emptyState": {
+          "title": "Your cart is empty",
+          "description": "Explore our products and add items to your cart"
+        },
+        "title": "Go to Cart",
+        "removeItem": "Remove item from cart",
+        "productsInCart": {
+          "one": "Product in Cart",
+          "other": "Products in Cart"
+        },
+        "total": "Total:",
+        "perItem": "1 X",
+        "maxQuantityTooltip": "Sorry, the quantity of this product per order is limited"
+      },
+      "accountIcon": {
+        "title": "Go to Account"
+      },
+      "categories": {
+        "title": "All Categories"
+      },
+      "campaigns": {
+        "title": "Campaigns"
+      },
+      "burger": {
+        "choose": "Choose"
+      }
+    },
+    "footer": {
+      "logo": {
+        "alt": "Sales Assistant logo. Go to the home page"
+      },
+      "rights": "All Rights Reserved.",
+      "contact": {
+        "title": "Contact"
+      },
+      "links": {
+        "title": "Links"
+      },
+      "socials": {
+        "title": "Follow Us"
+      },
+      "paymentMethods": {
+        "title": "Payment methods"
+      }
+    }
+  },
+  "homePage": {
+    "metadata": {
+      "title": "HomePage",
+      "description": "Here you can find a lot of products you might like."
+    },
+    "title": "AI Sales Assistant",
+    "tryItNow": "Try it now!",
+    "welcome": "Welcome"
+  },
+  "notFoundPage": {
+    "title": "Sorry, the page was not found.",
+    "description": "Looks like this page has been moved or deleted."
+  }
+}

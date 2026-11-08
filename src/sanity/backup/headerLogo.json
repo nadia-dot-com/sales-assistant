@@ -1,0 +1,12 @@
+{
+  "_type": "image",
+  "asset": {
+    "dimensions": {
+      "_type": "sanity.imageDimensions",
+      "aspectRatio": 3.37007874015748,
+      "height": 254,
+      "width": 856
+    },
+    "url": "https://cdn.sanity.io/images/2uvct976/production/273e261c4ddb832faf342e6e012ce6254ac9f3f6-856x254.png"
+  }
+}

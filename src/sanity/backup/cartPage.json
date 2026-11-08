@@ -1,0 +1,26 @@
+[
+  {
+    "key": "cartPage.orderSummary.productsValue",
+    "value": "Products value"
+  },
+  {
+    "key": "cartPage.orderSummary.delivery",
+    "value": "Delivery"
+  },
+  {
+    "key": "cartPage.orderSummary.totalToPay",
+    "value": "Total to pay"
+  },
+  {
+    "key": "cartPage.orderSummary.inclVat",
+    "value": "incl. VAT"
+  },
+  {
+    "key": "cartPage.orderSummary.checkout",
+    "value": "Go to Checkout"
+  },
+  {
+    "key": "cartPage.orderSummary.weAccept",
+    "value": "We accept"
+  }
+]

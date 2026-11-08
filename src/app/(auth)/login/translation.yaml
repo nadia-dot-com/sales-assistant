@@ -1,0 +1,10 @@
+"loginPage.legend.title": "Log in to your account"
+"loginPage.legend.description": "Provide your email and password for logging in"
+"loginPage.submit": "Log in"
+"loginPage.email.label": "Email"
+"loginPage.email.placeholder": "Enter your Email"
+"loginPage.password.label": "Password"
+"loginPage.password.placeholder": "Enter your password"
+"loginPage.linkSection.title": "You dont have an account?"
+"loginPage.linkSection.linkText": "Create one now"
+

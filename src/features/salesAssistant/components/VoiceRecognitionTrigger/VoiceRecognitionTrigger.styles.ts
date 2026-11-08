@@ -1,0 +1,81 @@
+import type { GlobalStyleObject } from "@chakra-ui/react";
+
+export const styles = {
+  root: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    alignSelf: "center",
+  },
+  button: {
+    width: { base: "100px", sm: "150px" },
+    height: { base: "200px", sm: "250px" },
+    backgroundColor: "transparent",
+  },
+  icon: {
+    width: { base: "160px", xs: "200px", sm: "250px" },
+    height: { base: "160px", xs: "200px", sm: "250px" },
+    color: "primary-color",
+    marginLeft: { sm: "40px" },
+  },
+  messageSlot: {
+    display: "grid",
+  },
+  welcomeContainer: {
+    position: "relative",
+    gridArea: "1 / 1",
+    transform: {
+      base: "translate(5%, -140%)",
+      xs: "translate(14%, -165%)",
+      sm: "translate(12%, -155%)",
+    },
+  },
+  welcomeMessage: {
+    position: "relative",
+    rounded: "2xl",
+    alignSelf: "flex-start",
+    backgroundColor: "primary-color",
+    color: "background-color",
+    width: "fit-content",
+    maxWidth: "70dvw",
+    paddingY: 2,
+    paddingX: 3,
+    fontSize: { base: "18px", xs: "20px" },
+    marginBottom: { base: 4, sm: 8 },
+  },
+  voiceWaveform: {
+    gap: 2,
+    justifyItems: "center",
+    alignItems: "center",
+    position: "relative",
+    gridArea: "1 / 1",
+    transform: {
+      base: "translate(12%, -120%)",
+      xs: "translate(17%, -158%)",
+      sm: "translate(12%, -155%)",
+    },
+  },
+  voiceWaveformBar: {
+    borderLeft: "4px solid",
+    borderColor: "primary-color",
+    width: "1px",
+    rounded: 4,
+    animation: "voicePulse 0.6s ease-in-out infinite",
+    "&:nth-of-type(1)": { height: { base: 2, xs: 3 }, animationDelay: "0s" },
+    "&:nth-of-type(2)": { height: { base: 4, xs: 6 }, animationDelay: "0.1s" },
+    "&:nth-of-type(3)": { height: { base: 8, xs: 12 }, animationDelay: "0.2s" },
+    "&:nth-of-type(4)": { height: { base: 4, xs: 6 }, animationDelay: "0.1s" },
+    "&:nth-of-type(5)": { height: { base: 2, xs: 3 }, animationDelay: "0s" },
+    "&:nth-of-type(6)": { height: { base: 4, xs: 6 }, animationDelay: "0.1s" },
+    "&:nth-of-type(7)": { height: { base: 8, xs: 12 }, animationDelay: "0.2s" },
+    "&:nth-of-type(8)": { height: { base: 4, xs: 6 }, animationDelay: "0.1s" },
+    "&:nth-of-type(9)": { height: { base: 2, xs: 3 }, animationDelay: "0s" },
+    "&:nth-of-type(10)": { height: { base: 4, xs: 6 }, animationDelay: "0.1s" },
+    "&:nth-of-type(11)": {
+      height: { base: 8, xs: 12 },
+      animationDelay: "0.2s",
+    },
+    "&:nth-of-type(12)": { height: { base: 4, xs: 6 }, animationDelay: "0.1s" },
+    "&:nth-of-type(13)": { height: { base: 2, xs: 3 }, animationDelay: "0s" },
+  },
+} as const satisfies GlobalStyleObject;

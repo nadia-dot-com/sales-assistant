@@ -1,0 +1,163 @@
+{
+  "_key": "b2edf834-fa3f-4900-ab71-796067c61ce4",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "ed4e45da-4dc9-4207-9b4a-6998bece312d",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "269d3831-c990-4d0a-a53d-b63c2482d834",
+          "_type": "category",
+          "children": [],
+          "id": "269d3831-c990-4d0a-a53d-b63c2482d834",
+          "key": "gp26_face_moisturizers_other",
+          "level": 3,
+          "show": true,
+          "title": "Other Face Moisturizers"
+        },
+        {
+          "_key": "1a5b83a5-fa99-4516-b5bf-45028b30b36d",
+          "_type": "category",
+          "children": [],
+          "id": "1a5b83a5-fa99-4516-b5bf-45028b30b36d",
+          "key": "gp26_anti_aging_cream",
+          "level": 3,
+          "show": true,
+          "title": "Anti-Age Creams"
+        },
+        {
+          "_key": "8677fedd-3801-4740-9163-6b792ec67204",
+          "_type": "category",
+          "children": [],
+          "id": "8677fedd-3801-4740-9163-6b792ec67204",
+          "key": "gp26_day_cream",
+          "level": 3,
+          "show": true,
+          "title": "Day Creams"
+        },
+        {
+          "_key": "fd835916-235f-454d-b32c-caf2294ae003",
+          "_type": "category",
+          "children": [],
+          "id": "fd835916-235f-454d-b32c-caf2294ae003",
+          "key": "gp26_night_cream",
+          "level": 3,
+          "show": true,
+          "title": "Night Creams"
+        }
+      ],
+      "id": "ed4e45da-4dc9-4207-9b4a-6998bece312d",
+      "key": "gp26_face_moisturizers",
+      "level": 2,
+      "show": true,
+      "title": "Face Moisturizers"
+    },
+    {
+      "_key": "c76251e6-f7f6-4b36-b5af-747f0f53fc13",
+      "_type": "category",
+      "children": [
+        {
+          "_key": "cd384cf8-9c95-4e4a-b83e-b0ae6b67286f",
+          "_type": "category",
+          "children": [],
+          "id": "cd384cf8-9c95-4e4a-b83e-b0ae6b67286f",
+          "key": "gp26_face_tonic_lotion",
+          "level": 3,
+          "show": true,
+          "title": "Toners"
+        },
+        {
+          "_key": "292b1dbd-8d09-4b68-96d1-5584c5c35716",
+          "_type": "category",
+          "children": [],
+          "id": "292b1dbd-8d09-4b68-96d1-5584c5c35716",
+          "key": "gp26_face_wash_gel_foam",
+          "level": 3,
+          "show": true,
+          "title": "Face Washes"
+        },
+        {
+          "_key": "46271d4e-81ba-4b85-832d-f64d3560eb48",
+          "_type": "category",
+          "children": [],
+          "id": "46271d4e-81ba-4b85-832d-f64d3560eb48",
+          "key": "gp26_makeup_remover",
+          "level": 3,
+          "show": true,
+          "title": "Make-up Removers"
+        },
+        {
+          "_key": "2be008d5-6aac-4fa7-924c-6839bb07dab2",
+          "_type": "category",
+          "children": [],
+          "id": "2be008d5-6aac-4fa7-924c-6839bb07dab2",
+          "key": "gp26_micellar_water",
+          "level": 3,
+          "show": true,
+          "title": "Micellar Waters"
+        }
+      ],
+      "id": "c76251e6-f7f6-4b36-b5af-747f0f53fc13",
+      "key": "gp26_face_cleansing",
+      "level": 2,
+      "show": true,
+      "title": "Face Cleansing"
+    },
+    {
+      "_key": "c615b1ff-a9b6-4748-8c0d-94d4d319cef3",
+      "_type": "category",
+      "children": [],
+      "id": "c615b1ff-a9b6-4748-8c0d-94d4d319cef3",
+      "key": "gp26_face_masks",
+      "level": 2,
+      "show": true,
+      "title": "Face Masks"
+    },
+    {
+      "_key": "dab019eb-0834-49a9-9cbd-e70163fd4071",
+      "_type": "category",
+      "children": [],
+      "id": "dab019eb-0834-49a9-9cbd-e70163fd4071",
+      "key": "gp26_eye_care",
+      "level": 2,
+      "show": true,
+      "title": "Eye Care"
+    },
+    {
+      "_key": "822e5fab-5643-4eab-8861-b614262f39ff",
+      "_type": "category",
+      "children": [],
+      "id": "822e5fab-5643-4eab-8861-b614262f39ff",
+      "key": "gp26_face_care_other",
+      "level": 2,
+      "show": true,
+      "title": "Other Face Care"
+    },
+    {
+      "_key": "72738f43-7cc9-42ca-8681-99e8b8187430",
+      "_type": "category",
+      "children": [],
+      "id": "72738f43-7cc9-42ca-8681-99e8b8187430",
+      "key": "gp26_lip_care",
+      "level": 2,
+      "show": true,
+      "title": "Lip Care"
+    },
+    {
+      "_key": "94ef0fe7-fa55-48dc-94d6-428cc5beeb88",
+      "_type": "category",
+      "children": [],
+      "id": "94ef0fe7-fa55-48dc-94d6-428cc5beeb88",
+      "key": "gp26_face_serums",
+      "level": 2,
+      "show": true,
+      "title": "Face Serums"
+    }
+  ],
+  "id": "b2edf834-fa3f-4900-ab71-796067c61ce4",
+  "key": "gp26_face_care",
+  "level": 1,
+  "show": true,
+  "title": "Face Care"
+}

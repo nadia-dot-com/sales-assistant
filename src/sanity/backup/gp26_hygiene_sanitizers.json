@@ -1,0 +1,51 @@
+{
+  "_key": "fa477096-e570-4679-8253-53abde237970",
+  "_type": "category",
+  "children": [
+    {
+      "_key": "4242e3d9-8f9d-4a80-bae5-40c5e77af548",
+      "_type": "category",
+      "children": [],
+      "id": "4242e3d9-8f9d-4a80-bae5-40c5e77af548",
+      "key": "gp26_wipes_cottons",
+      "level": 2,
+      "show": true,
+      "title": "Wipes and Cotton Pads"
+    },
+    {
+      "_key": "b055aa02-9319-4ba9-b002-ca8ce26ffdae",
+      "_type": "category",
+      "children": [],
+      "id": "b055aa02-9319-4ba9-b002-ca8ce26ffdae",
+      "key": "gp26_hygiene_sanitizers_other",
+      "level": 2,
+      "show": true,
+      "title": "Other Hygiene Products"
+    },
+    {
+      "_key": "6194a9e7-a0c2-4cac-a56f-9c40be2f6086",
+      "_type": "category",
+      "children": [],
+      "id": "6194a9e7-a0c2-4cac-a56f-9c40be2f6086",
+      "key": "gp26_feminine_hygiene",
+      "level": 2,
+      "show": true,
+      "title": "Feminine Hygiene"
+    },
+    {
+      "_key": "145409d1-ddf8-42f4-85e0-0ffa9062cb61",
+      "_type": "category",
+      "children": [],
+      "id": "145409d1-ddf8-42f4-85e0-0ffa9062cb61",
+      "key": "gp26_hand_sanitizers",
+      "level": 2,
+      "show": true,
+      "title": "Hand Sanitizers"
+    }
+  ],
+  "id": "fa477096-e570-4679-8253-53abde237970",
+  "key": "gp26_hygiene_sanitizers",
+  "level": 1,
+  "show": true,
+  "title": "Hygiene"
+}
