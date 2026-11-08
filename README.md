@@ -18,11 +18,11 @@ This is the frontend of an internal training project built as a team at Columbus
 
 ## Chat behavior
 
-<video src="src/assets/preview/chat-behavior.mp4" controls muted width="100%"></video>
+![Chat behavior](src/assets/preview/chat-behavior.gif)
 
 ## Make an order example
 
-<video src="src/assets/preview/make-an-order.mp4" controls muted width="100%"></video>
+![Make an order](src/assets/preview/make-an-order.gif)
 
 ## What it does
 
