@@ -14,19 +14,15 @@ This is the frontend of an internal training project built as a team at Columbus
 >
 > The live demo depends on the same backend services and may be switched off at some point. If it no longer responds, see the screenshots and the demo video.
 
-# Chat behavior
+# Preview
 
+## Chat behavior
 
+![Chat behavior][./assets/chat-behavior.mp4]
 
+## Make an order example
 
-
-
-
-# Make an order example
-
-
-
-
+![Make an order][./asserts/make-an-order.mp4]
 
 ## What it does
 
