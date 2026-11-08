@@ -18,7 +18,13 @@ This is the frontend of an internal training project built as a team at Columbus
 
 
 
+
+
+
+
 # Make an order example
+
+
 
 
 
