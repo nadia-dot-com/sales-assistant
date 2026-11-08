@@ -14,7 +14,13 @@ This is the frontend of an internal training project built as a team at Columbus
 >
 > The live demo depends on the same backend services and may be switched off at some point. If it no longer responds, see the screenshots and the demo video.
 
-<!-- TODO: add screenshots and demo video here -->
+# Chat behavior
+
+
+
+# Make an order example
+
+
 
 ## What it does
 
@@ -23,6 +29,24 @@ This is the frontend of an internal training project built as a team at Columbus
 - **Chat session history** restored when returning from a product page, together with the scroll position
 - **Chat behavior details**: auto-scroll to the latest request, scroll-to-bottom button, loading and error states
 - Responsive UI
+
+## My contribution
+
+### The store
+
+- Built the **product page** on top of commercetools: pricing with discounts, a "notify me" form for unavailable products (`useActionState`), an error boundary and page metadata
+- Built the **cart**: global state with Context API + `useActionState` (async cart actions that call server actions talking to commercetools), a responsive cart page and cart popover, quantity updates, an **anonymous cart** for guests that is **merged** with the customer cart after login and cleared on logout
+- Built the **multi-step checkout** (address, delivery, payment) with `useActionState` and a server action that completes the order, address forms with Zod validation, and order status screens
+- Connected the store to **Sanity**: translations and content (footer, payment methods, theme) fetched with caching and revalidation through a webhook
+- Responsive styling and fonts for the shop pages
+
+### Sales Assistant
+
+- Implemented the **voice recognition** feature with the Web Speech API: speech capture, language handling, microphone permissions, and a clean view/hook/components structure; fixed a number of recognition bugs
+- Built the **chat interface**: request, keyword and product-grid messages, tags for matched and excluded keywords, loading indicator, and toast-based error handling
+- Implemented **chat session history** restored on return from a product page together with the scroll position, auto-scroll to the latest request and a scroll-to-bottom button
+- Redesigned the **main page** with an assistant avatar and a unified chat input, and styled the chat and the products grid
+- Wrote **Cypress e2e tests** for the chat features I built
 
 ## Tech stack
 
