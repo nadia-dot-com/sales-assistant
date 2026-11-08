@@ -20,11 +20,11 @@ This is the frontend of an internal training project built as a team at Columbus
 
 ## Chat behavior
 
-![Chat behavior](/Users/nadiialezhanska/portfolio/sales-assistant/src/assets/preview/chat-behavior.mp4)
+/Users/nadiialezhanska/portfolio/sales-assistant/src/assets/preview/chat-behavior.mp4
 
 ## Make an order example
 
-![Make an order](/Users/nadiialezhanska/portfolio/sales-assistant/src/assets/preview/make-an-order.mp4)
+/Users/nadiialezhanska/portfolio/sales-assistant/src/assets/preview/make-an-order.mp4
 
 ## What it does
 
