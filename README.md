@@ -1,8 +1,9 @@
-# Personal Care Store with Sales Assistant (frontend)
-
 ## The store
 
-An online store for personal care products (face, body, hair, sun care, fragrance, oral care and more) built with Next.js. Customers can browse categories and campaigns, search with filters, open product pages, use a cart that works for guests and signed-in users, and place orders. Products, carts and customers live in **commercetools**, page content and translations are managed in **Sanity CMS**, sign-in is handled with **Better Auth**, and the interface is multilingual (next-intl).
+This is an experimental copy of a shared team project, built to explore the Sales Assistant idea.
+The main goal was the AI assistant itself. A working demo store was set up around it to show how it works.
+
+An online store built with Next.js. Customers can browse categories and campaigns, search with filters, open product pages, use a cart that works for guests and signed-in users, and place orders. Products, carts and customers live in **commercetools**, page content and translations are managed in **Sanity CMS**, sign-in is handled with **Better Auth**, and the interface is multilingual (next-intl).
 
 ## Sales Assistant
 
